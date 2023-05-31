@@ -6,7 +6,7 @@ Scrape the web using SQLite and requests_html!
 ## Usage
 **Warning:** Using this script may get you blocked from certain websites, use at your own risk.
 ```sh
-pip3 install -r requirements.html
+pip3 install -r requirements.txt
 python main.py
 ```
 
